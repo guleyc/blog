@@ -7,12 +7,10 @@ redirect_from:
 author: Jay Guley
 ---
 
-Hello! I'm a Mining Engineer graduate from Istanbul Technical University. Over the past seven years, I've had the opportunity to work in different corners of the mining world - both underground and at the desk.
+Hello! I’m a Mining Engineer with a Bachelor's and Master's degree from Istanbul Technical University. Over the past eight years, I’ve worked across different corners of the mining world—from open-pit and underground operations to desk-based planning and design.
 
-I've gained experience in every stage of mining, from exploration to planning, managing production processes, and design work. I've even been on the sales side from time to time - talking with customers and understanding their needs was truly an enjoyable experience.
+Currently working in underground production in Western Australia, my experience spans the entire mining life cycle: exploration, planning and production management. I’ve also spent time on the commercial and sales side, which taught me how to align technical outcomes with client needs and broader business goals.
 
-I've worked in both open pit and underground operations. I've been involved in a wide variety of projects, from short-term plans to long-term strategies, from 3D designs to the installation of ore processing plants. During my time at a publicly traded company, I particularly developed myself in team management and strategic decision-making.
+What I enjoy most is blending technical engineering with commercial understanding. I don't just look at “how to do it,” but “why it should be done this way.” This perspective ensures that my decisions make sense for both the operation and the business as a whole.
 
-What I enjoy most is being able to blend technical knowledge with commercial understanding. This way, I can see not just "how to do it" but also "why it should be done this way." Being able to think about how a decision will impact not just the technical outcomes but the entire business has given me a different perspective.
-
-I really enjoy tackling practical problems in the field, trying to optimize processes at the computer, and creating solutions. Wherever I am - whether on site, in the office, or in meetings - I focus on creating better things together with the people around me.
+Recently, I have been bridging the gap between mining operations and technology by developing custom software solutions. By designing databases, configuring cloud servers, and writing scripts, I focus on optimizing operational processes right at the source. Wherever I am, whether on site, in the office, or in meetings, I focus on creating better things together with the people around me.
